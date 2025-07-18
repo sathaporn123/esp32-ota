@@ -1,2 +1,1 @@
-fw_version=240719a
-fw_url=https://github.com/sathaporn123/esp32-ota/raw/refs/heads/main/sketch_jul18a.ino.bin
+250719a
