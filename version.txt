@@ -1,2 +1,2 @@
 fw_version=240719a
-fw_url=https://files.catbox.moe/abc123.bin
+fw_url=https://github.com/sathaporn123/esp32-ota/raw/refs/heads/main/sketch_jul18a.ino.bin
