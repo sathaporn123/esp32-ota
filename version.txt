@@ -1,0 +1,2 @@
+fw_version=240719a
+fw_url=https://files.catbox.moe/abc123.bin
